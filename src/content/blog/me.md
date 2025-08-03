@@ -24,4 +24,4 @@ telegram群组信息监听自动私信
 ## 联系方式
 
 点击前往TG频道[RRKYC](https://t.me/RRKYC)
-[telegram](/photo/ddgpay.webp)
+![telegram](/photo/ddgpay.webp)
