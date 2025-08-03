@@ -210,7 +210,7 @@ const CommentsWrapper: React.FC<Props> = ({ identifier, commentType, displayMode
         <div className="mt-6 text-sm text-right">
           本评论区由
           {" "}
-          <a href="https://github.com/EveSunMaple" className="text-primary" target="_blank" rel="noopener noreferrer"> EveSunMaple </a>
+          <a href="https://github.com/EveSunMaple" className="text-primary" target="_blank" rel="noopener noreferrer"> 大大怪 </a>
           {" "}
           自主开发
         </div>
