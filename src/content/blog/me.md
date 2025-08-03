@@ -1,3 +1,15 @@
+---
+title: 个人业务
+description: 个人业务介绍。
+pubDate: 2025-08-03
+tags:
+  - 介绍
+  - 博客
+categories:
+  - 技术
+draft: false
+---
+
 ### 业务范围
 
 代搭建各类telegram机器人（会员机器人、发卡机器人、双向机器人）
