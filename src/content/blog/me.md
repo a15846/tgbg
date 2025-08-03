@@ -9,7 +9,7 @@ telegram群组信息监听自动私信
 
 要是有什么不会的源码也可找我帮忙尝试搭建，有时间也会试试看
 
-##联系方式
+## 联系方式
 
 点击前往TG频道[RRKYC](https://t.me/RRKYC)
 [telegram](/photo/ddgpay.webp)
